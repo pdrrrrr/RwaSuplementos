@@ -110,11 +110,10 @@ p {
   margin-bottom: 20px;
 }
 
-
-/* Rodape cima*/
 .footer {
     padding-top: 28%;
 }
+/* Rodape cima*/
 .footer-cima {
     padding: 50px;
     display: flex;
