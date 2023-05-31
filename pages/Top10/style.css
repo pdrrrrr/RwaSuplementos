@@ -112,9 +112,6 @@ p {
 
 
 /* Rodape cima*/
-.footer {
-    padding-top: 28%;
-}
 .footer-cima {
     padding: 50px;
     display: flex;

@@ -244,6 +244,7 @@ p {
 /* rodape baixo */
 .footer-baixo {
     text-align: center;
+    background-color: lightgray;
 }
 
 #outros-links {
